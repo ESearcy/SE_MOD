@@ -1,0 +1,3 @@
+﻿logFile = "DroneConquestLogFile.txt";
+errorFile = "DroneConquestErrorFile.txt"
+settingsFile = "DroneConquestSettingsFile.txt"
