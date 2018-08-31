@@ -1,0 +1,14 @@
+E:\SEMODS\FighterCommand\Data\Scripts\SEMod\ClassBuilder\bin\Debug\ClassBuilder.exe.config
+E:\SEMODS\FighterCommand\Data\Scripts\SEMod\ClassBuilder\bin\Debug\ClassBuilder.exe
+E:\SEMODS\FighterCommand\Data\Scripts\SEMod\ClassBuilder\bin\Debug\ClassBuilder.pdb
+E:\SEMODS\FighterCommand\Data\Scripts\SEMod\ClassBuilder\obj\Debug\ClassBuilder.csprojResolveAssemblyReference.cache
+E:\SEMODS\FighterCommand\Data\Scripts\SEMod\ClassBuilder\obj\Debug\ClassBuilder.csproj.CoreCompileInputs.cache
+E:\SEMODS\FighterCommand\Data\Scripts\SEMod\ClassBuilder\obj\Debug\ClassBuilder.exe
+E:\SEMODS\FighterCommand\Data\Scripts\SEMod\ClassBuilder\obj\Debug\ClassBuilder.pdb
+H:\SEMODS\FighterCommand\Data\Scripts\SEMod\ClassBuilder\bin\Debug\ClassBuilder.exe.config
+H:\SEMODS\FighterCommand\Data\Scripts\SEMod\ClassBuilder\bin\Debug\ClassBuilder.exe
+H:\SEMODS\FighterCommand\Data\Scripts\SEMod\ClassBuilder\bin\Debug\ClassBuilder.pdb
+H:\SEMODS\FighterCommand\Data\Scripts\SEMod\ClassBuilder\obj\Debug\ClassBuilder.csprojResolveAssemblyReference.cache
+H:\SEMODS\FighterCommand\Data\Scripts\SEMod\ClassBuilder\obj\Debug\ClassBuilder.csproj.CoreCompileInputs.cache
+H:\SEMODS\FighterCommand\Data\Scripts\SEMod\ClassBuilder\obj\Debug\ClassBuilder.exe
+H:\SEMODS\FighterCommand\Data\Scripts\SEMod\ClassBuilder\obj\Debug\ClassBuilder.pdb

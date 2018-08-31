@@ -1,0 +1,2 @@
+CommandCenter:FactoryState,MessageCode,OrderType,DockTracker,DroneInfo,Order,ParsedMessage,SurveyPoint,TrackedEntity,Comms,Factory,Logger,DockVector,NavigationControls
+MiningDrone:MessageCode,OrderType,DroneInfo,Order,ParsedMessage,SurveyPoint,TrackedEntity,Comms,Logger,DockVector,NavigationControls

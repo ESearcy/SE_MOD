@@ -1,0 +1,2 @@
+﻿MiningBase:AIShipBase,DroneContext,DroneOrder,PlanetaryData,ProductionSystem,NavigationSystem,TrackingSystem,WeaponSystem,StorageSystem,CommunicationSystem,ShipComponents,Logger,MessageCode,TrackedEntity,Order,DroneInfo,OrderType,FactoryState,ParsedMessage,DockVector,TaskInfo
+CombatDrone:AIShipBase,DroneContext,DroneOrder,PlanetaryData,ProductionSystem,NavigationSystem,TrackingSystem,WeaponSystem,StorageSystem,CommunicationSystem,ShipComponents,Logger,MessageCode,TrackedEntity,Order,DroneInfo,OrderType,FactoryState,ParsedMessage,DockVector,TaskInfo
